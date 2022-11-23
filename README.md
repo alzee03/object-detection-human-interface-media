@@ -13,7 +13,9 @@ pip install pytorch matplotlib numpy
 ---
 ### 프로그램을 실행한 결과물 
 #### cross-correlation의 분포를 나타낸 히트맵
-![correlation_heatmap](https://user-images.githubusercontent.com/44120370/203473955-34c36b68-af10-4bdb-8529-1a33384441c6.png) 변화를 한 눈에 알아보기 위해 컬러맵의 바운드를 설정함
+![correlation_heatmap](https://user-images.githubusercontent.com/44120370/203473955-34c36b68-af10-4bdb-8529-1a33384441c6.png) 
+
+변화를 한 눈에 알아보기 위해 컬러맵의 바운드를 설정함
 ---
 #### 결과값들 중 threshold를 넘어간 지점에 대해 박스로 표시한 그림
 ![output2](https://user-images.githubusercontent.com/44120370/203474235-58fd8225-fcfa-49a4-86dd-f1b2555ab9a8.png)
