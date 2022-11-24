@@ -1,0 +1,12 @@
+실행할 파일: find_same_picture.ipynb
+
+
+사용한 언어 및 프레임워크 : python, Jupyter notebook
+
+사용한 라이브러리 : pytorch, matplotlib, numpy
+
+pip install PyTorch matplotlib numpy 를 이용해서 설치해야함.
+
+그 후에 input_image.jpg와 target_image.jpg를 실행 파일과 같은 디렉토리 내에 넣고 모든 셀들을 실행하면 된다.
+
+이때 jpg 파일들의 이름이 정확해야함
